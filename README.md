@@ -5,7 +5,6 @@ gemma.py: Houses the GEMMA class, which integrates the evaluation results from E
 Create a virtual environment and install the required libraries:
 
 bash
-코드 복사
 python -m venv env
 source env/bin/activate   # On Windows, use `env\Scripts\activate`
 pip install -r requirements.txt
